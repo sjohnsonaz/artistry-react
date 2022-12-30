@@ -41,7 +41,7 @@
     "css-loader": "3.6.0",
     "html-webpack-plugin": "4.3.0",
     "jsdom": "16.2.2",
-    "mocha": "8.0.1",
+    "mocha": "8.4.0",
     "opn-cli": "5.0.0",
     "postcss-loader": "3.0.0",
     "react": "16.13.1",
